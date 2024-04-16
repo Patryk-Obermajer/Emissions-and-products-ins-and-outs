@@ -1,4 +1,5 @@
-<title>CFB Boiler Flue Gas Flow for different fuel types - Regression Model</title>
+<title> CFB Boiler Flue Gas Flow for different fuel types - Regression Model </title>
+
 <h1>Introduction</h1>
 
 We are presented with data inputs and outputs from a Circulating Fluidized Bed (CFB) boiler. The inputs include fuel type and its respective fuel power capacity, and at the output is Flue Gas Flow. The data is in tabular format with daily records for 365 days.
