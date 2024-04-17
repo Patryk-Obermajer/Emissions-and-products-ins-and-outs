@@ -18,4 +18,6 @@ We will load in the data into pandas and then look into a number of regressors. 
 
 <h2>Conclusions</h2>
 
-We manage to work out a funciton that gives us reasonably satisfactory results with the R-squared of 0.74 (and MSE: 28.56, RMSE: 5.34, and MAE: 4.25). The model fits the data reasonalby well. We will await more info in the future including hourly timestep and a more varied fuel mix and see how that plays out. The likelyhood is that if the data were more extensive, the more sophisticated regressors could outperform the currently best LinearRegression model.
+We manage to work out a funciton that gives us reasonably satisfactory results with the R-squared of 0.74 (and MSE: 28.56, RMSE: 5.34, and MAE: 4.25). The model fits the data reasonalby well. We will await more info in the future including hourly timestep and a more varied fuel mix and see how that plays out. The likelyhood is that if the data were more extensive, the more sophisticated regressors could outperform the currently best LinearRegression model.<br>
+![Linear Regression Results](./imgs/image-results.png)<br>
+*Linear Regression Results - measured vs predicted Flue Gas Flow*<br>
