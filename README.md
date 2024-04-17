@@ -7,7 +7,7 @@ We are presented with data inputs and outputs from a Circulating Fluidized Bed (
 ![CFB Boiler](./imgs/image.png)<br>
 *CFB Boiler*
 <br>
-![Process data](imgs\table-img.png)
+![Process data](./imgs/table-img.png)<br>
 *Data used in this excercise - refer to 2023-Process-Data-Monthly-Combined.csv*<br>
 <h2>Aims</h2>
 
