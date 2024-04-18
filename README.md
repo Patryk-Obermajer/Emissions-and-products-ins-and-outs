@@ -14,7 +14,7 @@ We are presented with data inputs and outputs from a Circulating Fluidized Bed (
 We are trying to work out a model, which will predict the Flue Gas Flow for different fuel mixes and their corresponding fuel power capacity.
 
 <h2>Methodology</h2>
-We will load in the data into pandas and then look into a number of regressors. with sklearn The main focus is on Linear Regression as the data is fairly limited (ideally we'd appreciate hourly timeframe) and the phenomenon in question is likely of linear nature. Refer to Regression-models-for-emissions-for-different-fuels.ipynb Jupyter Notebook.
+We will load in the data into pandas and then look into a number of regressors with sklearn. The main focus is on Linear Regression as the data is fairly limited (ideally we'd appreciate hourly timeframe) and the phenomenon in question is likely of linear nature. Refer to Regression-models-for-emissions-for-different-fuels.ipynb Jupyter Notebook.
 
 <h2>Conclusions</h2>
 
